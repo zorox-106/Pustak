@@ -1,0 +1,27 @@
+# Node.js
+node_modules/
+dist/
+build/
+.eslintcache
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Databases
+*.db
+*.sqlite3
+
+# Environment Variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+backend/temp_*.pdf
+temp_*.pdf
